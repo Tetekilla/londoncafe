@@ -16,7 +16,7 @@
       <a href="#" class="brand-logo right">London Café  <i class="large material-icons">add_alert</i> </a>
       <ul id="nav-mobile" class="left hide-on-med-and-down">
         <li><a href="historia.html">História do Café</a></li>
-        <li><a href="sobre.html">Sobre</a></li>
+        <li><a href="badges.html">Contato</a></li>
         <li><a href="menu.html">menu</a></li>
       </ul>
     </div> 
