@@ -1,3 +1,17 @@
 body {
-    background-color: #0d47a1;
+    background-color: #212121;
+}
+
+h1 {
+    color: aliceblue;
+}
+
+p {
+    color: aliceblue;
+    font-family: verdana;
+    font-size: 20px;
+}
+nav {
+    color: #4e342e;
+    
 }
